@@ -14,6 +14,8 @@ Always **kebab-case**, following a hierarchy-based pattern:
 - `cps-trip-sync`
 - `datawarehouse-migration-app`
 - `webbooking-api-sync`
+- `manager-portal-app`
+- `navision-toolbox`
 
 ## New Repo Checklist
 
